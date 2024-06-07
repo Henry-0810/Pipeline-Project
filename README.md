@@ -16,7 +16,7 @@ This project is a demonstration of how to set up and test a GitHub Pages site us
 
 ## Usage
 
-To view the site, visit [your GitHub Pages URL](https://henry-0810.github.io/pipeline-project).
+To view the site, visit [your GitHub Pages URL](https://henry-0810.github.io/Pipeline-Project/).
 
 ## Features
 
